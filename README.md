@@ -1,5 +1,7 @@
 # Week11_11
 
+Integrantes: DIEGO ALEJANDRO RUIZ ALFONSO - ppmurcia@ucundinamarca.edu.co PEDRO PASCUAL MURCIA VARGAS - ppmurcia@ucundinamarca.edu.co JHON EDUARD TINJACA CRUZ - jetinjaca@ucundinamarca.edu.co JULIAN DAVID SILVA GUZMAN - jdsilva@ucundinamarca.edu.co
+
 # Predicción de Series de Tiempo con Redes Neuronales Recurrentes (RNN)
 # Descripción
 Este notebook demuestra la implementación de un modelo de Red Neuronal Recurrente (RNN) simple para la predicción de series de tiempo. El proceso incluye la generación de una serie de tiempo sintética, su preprocesamiento (normalización, creación de secuencias y división en conjuntos de entrenamiento y prueba), la construcción y entrenamiento del modelo RNN, y finalmente la evaluación y visualización de sus predicciones.
